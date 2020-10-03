@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning Machine learning
-
+- 📫 How to reach me: www.linkedin.com/in/mihany
+- ⚡ Fun fact: I like to cook and eat.
 <!--
 **mihany/mihany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
